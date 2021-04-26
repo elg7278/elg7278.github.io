@@ -1,4 +1,5 @@
 
+/* Init */
 *{ 
 margin: 0; 
 border: 0; 
@@ -19,6 +20,8 @@ color: white;
     text-align: left;
 }
 
+/* Content */
+
 h1 {
     padding-left: 40px;
     color: rgb(255, 255, 255);
@@ -34,14 +37,6 @@ body {
             animation-iteration-count: 1;
             animation-fill-mode: forwards;
 }
-@keyframes fadeInAnimation {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
 
 p {
     font-size: 18px;
@@ -54,4 +49,15 @@ a {
 
 iframe {
     padding-left: 40px
+}
+
+/* Animation */
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
