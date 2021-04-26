@@ -1,1 +1,1 @@
-I have absolutely no clue how to design or code a website. This is just a sample page. 
+This is my first time programming a website. All the animations you see on the website are not created by me and have information on the creators if they were included with the animation.
